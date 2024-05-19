@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Geo Data Management System
-This project is a Backend Component for [bvt-dashboard](https://github.com/azurein/bvt-dashboard). Deployment using Vercel, CI/CD using integration between Github and Vercel, Database using Vercel.
+This project is a Backend Component for [bvt-dashboard](https://github.com/azurein/bvt-dashboard). Deployment using Vercel to base URL: https://geodata-management-system.vercel.app, CI/CD using integration between Github and Vercel, Database using Vercel.
 
 ## Features (MVP)
 - **Seeding and Migration:** Automated database schema initialization and updates.
